@@ -2,7 +2,7 @@ package penjualan_alat2_komputer_kel11;
 
 public class Penjualan_Laptop_kel11 {
     public static void main(String[] args) {
-        System.out.println("Selamat Datang di Toko Kami");
+        System.out.println("Selamat Datang di Toko Kami"); //menampilkan Outpuput Selamat DAtang di toko kami
         System.out.println("");
         System.out.println("Berikut Daftar Laptop yang tersedia : ");
         operasi_fungsi func = new operasi_fungsi();
